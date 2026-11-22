@@ -1,0 +1,444 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-17T20:05:07Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 60122712,
+  "lat": 52.2150361,
+  "lon": 13.2140282,
+  "tags": {
+    "ele": "39",
+    "name": "Trebbin",
+    "place": "town",
+    "population": "9250",
+    "postal_code": "14959",
+    "website": "https://www.stadt-trebbin.de/",
+    "wikidata": "Q570114",
+    "wikipedia": "de:Trebbin"
+  }
+},
+{
+  "type": "node",
+  "id": 240047552,
+  "lat": 52.2118805,
+  "lon": 13.1474208,
+  "tags": {
+    "check_date": "2026-11-17",
+    "ele": "42",
+    "name": "Schönhagen",
+    "place": "village",
+    "population": "282",
+    "population:date": "2024-12-31",
+    "source:population": "wikipedia",
+    "website": "https://www.stadt-trebbin.de/clauertstadt-trebbin/wir-stellen-uns-vor/ortsteile/schoenhagen",
+    "wikidata": "Q24231400",
+    "wikimedia_commons": "Category:Schönhagen (Trebbin)",
+    "wikipedia": "de:Schönhagen (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 240093298,
+  "lat": 52.1869312,
+  "lon": 13.2879739,
+  "tags": {
+    "ele": "40",
+    "name": "Lüdersdorf",
+    "place": "village",
+    "population": "470",
+    "postal_code": "14959",
+    "wikidata": "Q1880236",
+    "wikipedia": "de:Lüdersdorf (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 257538323,
+  "lat": 52.1755454,
+  "lon": 13.2378759,
+  "tags": {
+    "name": "Wiesenhagen",
+    "place": "village",
+    "wikidata": "Q2569444",
+    "wikipedia": "de:Wiesenhagen"
+  }
+},
+{
+  "type": "node",
+  "id": 259701509,
+  "lat": 52.1883912,
+  "lon": 13.1634013,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "33",
+    "name": "Ahrensdorf",
+    "place": "village",
+    "population": "120",
+    "population:date": "2025-12-31",
+    "postal_code": "14947",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "wikidata": "Q26128597",
+    "wikimedia_commons": "Category:Ahrensdorf (Nuthe-Urstromtal)",
+    "wikipedia": "de:Ahrensdorf (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 276846973,
+  "lat": 52.2134334,
+  "lon": 13.2809066,
+  "tags": {
+    "ele": "40",
+    "name": "Christinendorf",
+    "place": "village",
+    "population": "200",
+    "postal_code": "14959",
+    "wikidata": "Q1083885",
+    "wikipedia": "de:Christinendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 316826437,
+  "lat": 52.2004572,
+  "lon": 13.2077492,
+  "tags": {
+    "ele": "38",
+    "name": "Kliestow",
+    "place": "village",
+    "population": "318",
+    "postal_code": "14959",
+    "wikidata": "Q1774345",
+    "wikipedia": "de:Kliestow (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 420316111,
+  "lat": 52.1785471,
+  "lon": 13.2151028,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "39",
+    "name": "Ausbau Zelle",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q109651892",
+    "wikimedia_commons": "Category:Ausbau Zelle",
+    "wikipedia": "de:Ausbau Zelle"
+  }
+},
+{
+  "type": "node",
+  "id": 420316114,
+  "lat": 52.1816416,
+  "lon": 13.2135198,
+  "tags": {
+    "check_date": "2026-11-16",
+    "name": "Ebelshof",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q91947055",
+    "wikipedia": "de:Ebelshof"
+  }
+},
+{
+  "type": "node",
+  "id": 625279640,
+  "lat": 52.1817362,
+  "lon": 13.2920179,
+  "tags": {
+    "name": "Hinterste Briesche",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625280130,
+  "lat": 52.1817296,
+  "lon": 13.2950542,
+  "tags": {
+    "name": "Nachtbucht",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625283383,
+  "lat": 52.1786310,
+  "lon": 13.2989595,
+  "tags": {
+    "name": "Brieschenbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625289319,
+  "lat": 52.1747361,
+  "lon": 13.2899687,
+  "tags": {
+    "name": "Schultenhörste",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625293576,
+  "lat": 52.1780323,
+  "lon": 13.2672880,
+  "tags": {
+    "name": "Werbensche Wiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1044170592,
+  "lat": 52.1938395,
+  "lon": 13.2439913,
+  "tags": {
+    "name": "Klein Schulzendorf",
+    "place": "village",
+    "wikidata": "Q1746257",
+    "wikipedia": "de:Klein Schulzendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 1432194820,
+  "lat": 52.2188715,
+  "lon": 13.2011108,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "37",
+    "name": "Löwendorf",
+    "place": "village",
+    "population": "566",
+    "population:date": "2025-12-31",
+    "postal_code": "14959",
+    "source:population": "wikipedia",
+    "website": "https://loewendorf.de/",
+    "wikidata": "Q15119084",
+    "wikimedia_commons": "Category:Löwendorf (Trebbin)",
+    "wikipedia": "de:Löwendorf (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 9424906215,
+  "lat": 52.1740000,
+  "lon": 13.1434062,
+  "tags": {
+    "name": "Forsthaus Märtensmühle",
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 12539176051,
+  "lat": 52.2162636,
+  "lon": 13.2493717,
+  "tags": {
+    "check_date": "2026-11-16",
+    "heritage": "4",
+    "heritage:operator": "bldam",
+    "heritage:website": "https://ns.gis-bldam-brandenburg.de/hida4web/view?docId=obj09105242.xml",
+    "historic": "yes",
+    "name": "Freie Scholle",
+    "place": "hamlet",
+    "ref:bldam": "09105242",
+    "start_date": "1925",
+    "wikidata": "Q36646363",
+    "wikimedia_commons": "Category:Siedlung Freie Scholle (Trebbin)",
+    "wikipedia": "de:Freie Scholle (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786939,
+  "lat": 52.2185744,
+  "lon": 13.2222796,
+  "tags": {
+    "name": "Weinberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786953,
+  "lat": 52.1729816,
+  "lon": 13.2474848,
+  "tags": {
+    "name": "Der Trebbiner Eichelbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786954,
+  "lat": 52.1750081,
+  "lon": 13.2517523,
+  "tags": {
+    "name": "Das große Luch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786955,
+  "lat": 52.1765968,
+  "lon": 13.2605551,
+  "tags": {
+    "name": "Das große Luch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786956,
+  "lat": 52.1783473,
+  "lon": 13.2495957,
+  "tags": {
+    "name": "Das große Luch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786957,
+  "lat": 52.1785253,
+  "lon": 13.2457418,
+  "tags": {
+    "name": "Lange Hörstchen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786958,
+  "lat": 52.1780369,
+  "lon": 13.2425091,
+  "tags": {
+    "name": "Lange Hörstchen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786959,
+  "lat": 52.1759957,
+  "lon": 13.2442205,
+  "tags": {
+    "name": "Hintenraus",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786970,
+  "lat": 52.2049261,
+  "lon": 13.1866049,
+  "tags": {
+    "check_date": "2026-11-16",
+    "name": "Finkenberg",
+    "place": "isolated_dwelling",
+    "postal_code": "14959",
+    "wikidata": "Q106675030",
+    "wikipedia": "de:Finkenberg (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786979,
+  "lat": 52.2032199,
+  "lon": 13.1923387,
+  "tags": {
+    "name": "Grenzwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786995,
+  "lat": 52.2025989,
+  "lon": 13.2418311,
+  "tags": {
+    "check_date": "2026-11-16",
+    "name": "Paulshöhe",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q95578186",
+    "wikipedia": "de:Paulshöhe (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384816004,
+  "lat": 52.1988303,
+  "lon": 13.2171579,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "44",
+    "name": "Plantage",
+    "place": "isolated_dwelling",
+    "postal_code": "14959",
+    "wikidata": "Q101560675",
+    "wikipedia": "de:Plantage (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384816005,
+  "lat": 52.1961208,
+  "lon": 13.2220586,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "40",
+    "name": "Ziegelei",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q109627185",
+    "wikimedia_commons": "Category:Ziegelei (Trebbin)",
+    "wikipedia": "de:Ziegelei (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384816006,
+  "lat": 52.2227483,
+  "lon": 13.1769835,
+  "tags": {
+    "check_date": "2026-11-16",
+    "name": "Priedel",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q106315052",
+    "wikimedia_commons": "Category:Priedel",
+    "wikipedia": "de:Priedel"
+  }
+},
+{
+  "type": "node",
+  "id": 14384816011,
+  "lat": 52.2107007,
+  "lon": 13.1318125,
+  "tags": {
+    "check_date": "2026-11-16",
+    "name": "Schönblick",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q137900949",
+    "wikimedia_commons": "Category:Schönblick (Trebbin)",
+    "wikipedia": "de:Schönblick (Trebbin)"
+  }
+}
+
+  ]
+}

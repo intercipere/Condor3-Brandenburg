@@ -1,0 +1,22 @@
+# Condor-Programme und Toolkit (nicht von uns)
+CLT/
+
+# Fremde Dokumentation und Referenzmaterial
+*.pdf
+Referenz/
+EDAZ Fotos/
+
+# Große, per Skript neu ladbare Daten und lokale Sicherungen (die OSM-Auszüge gehören ins Repo;
+# doerfer_landuse.json ist eine fehlgeschlagene Abfrage)
+Daten/*
+!Daten/OSM/
+Daten/OSM/doerfer_landuse.json
+Backup/
+
+# Lokale Werkzeug-Einstellungen und Beschreibung dieses Rechners
+.claude/
+LOKAL.md
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,5354 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-22T18:24:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 29907328,
+  "lat": 52.1415496,
+  "lon": 13.3650454,
+  "tags": {
+    "ele": "51",
+    "name": "Sperenberg",
+    "place": "village",
+    "population": "1600",
+    "postal_code": "15838",
+    "wikidata": "Q882100",
+    "wikipedia": "de:Sperenberg"
+  }
+},
+{
+  "type": "node",
+  "id": 29910598,
+  "lat": 52.2836580,
+  "lon": 13.2113765,
+  "tags": {
+    "name": "Siethen",
+    "place": "village",
+    "population": "791",
+    "population:date": "2022-03-31",
+    "source:population": "Stadt Ludwigsfelde",
+    "wikidata": "Q876659",
+    "wikipedia": "de:Siethen"
+  }
+},
+{
+  "type": "node",
+  "id": 29910599,
+  "lat": 52.2508131,
+  "lon": 13.2423247,
+  "tags": {
+    "check_date": "2026-11-20",
+    "ele": "46",
+    "name": "Thyrow",
+    "place": "village",
+    "population": "1402",
+    "population:date": "2024-12-31",
+    "postal_code": "14959",
+    "source:population": "wikipedia",
+    "website": "https://www.stadt-trebbin.de/clauertstadt-trebbin/wir-stellen-uns-vor/ortsteile/thyrow",
+    "wikidata": "Q20826932",
+    "wikimedia_commons": "Category:Thyrow",
+    "wikipedia": "de:Thyrow"
+  }
+},
+{
+  "type": "node",
+  "id": 36424378,
+  "lat": 52.0902045,
+  "lon": 13.1741882,
+  "tags": {
+    "ele": "48",
+    "name": "Luckenwalde",
+    "name:uk": "Люкенвальде",
+    "place": "town",
+    "population": "20185",
+    "postal_code": "14943",
+    "wikidata": "Q574146",
+    "wikipedia": "de:Luckenwalde"
+  }
+},
+{
+  "type": "node",
+  "id": 52225410,
+  "lat": 52.2729097,
+  "lon": 13.3521331,
+  "tags": {
+    "name": "Groß Schulzendorf",
+    "place": "village",
+    "population": "590",
+    "population:date": "2022-03-31",
+    "source:population": "Stadt Ludwigsfelde",
+    "wikidata": "Q832380",
+    "wikipedia": "de:Groß Schulzendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 52686589,
+  "lat": 52.2702888,
+  "lon": 13.3072046,
+  "tags": {
+    "name": "Wietstock",
+    "place": "village",
+    "population": "366",
+    "population:date": "2022-03-31",
+    "source:population": "Stadt Ludwigsfelde",
+    "wikidata": "Q2569694",
+    "wikipedia": "de:Wietstock (Ludwigsfelde)"
+  }
+},
+{
+  "type": "node",
+  "id": 56280597,
+  "lat": 52.2305007,
+  "lon": 13.3147059,
+  "tags": {
+    "ele": "39",
+    "name": "Nunsdorf",
+    "place": "village",
+    "population": "305",
+    "postal_code": "15806",
+    "wikidata": "Q2005151",
+    "wikipedia": "de:Nunsdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 60064306,
+  "lat": 52.2859387,
+  "lon": 13.1696767,
+  "tags": {
+    "name": "Gröben",
+    "place": "village",
+    "population": "349",
+    "population:date": "2022-03-31",
+    "source:population": "Stadt Ludwigsfelde",
+    "wikidata": "Q884062",
+    "wikipedia": "de:Gröben (Ludwigsfelde)"
+  }
+},
+{
+  "type": "node",
+  "id": 60064307,
+  "lat": 52.2731012,
+  "lon": 13.1748249,
+  "tags": {
+    "name": "Jütchendorf",
+    "place": "village",
+    "population": "107",
+    "population:date": "2022-03-31",
+    "source:population": "Stadt Ludwigsfelde",
+    "wikidata": "Q1717915",
+    "wikipedia": "de:Jütchendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 60064317,
+  "lat": 52.2640067,
+  "lon": 13.1484571,
+  "tags": {
+    "name": "Schiaß",
+    "place": "hamlet",
+    "population": "40",
+    "population:date": "2022-03-31",
+    "source:population": "Stadt Ludwigsfelde",
+    "wikidata": "Q1747721",
+    "wikipedia": "de:Schiaß"
+  }
+},
+{
+  "type": "node",
+  "id": 60122712,
+  "lat": 52.2150361,
+  "lon": 13.2140282,
+  "tags": {
+    "ele": "39",
+    "name": "Trebbin",
+    "place": "town",
+    "population": "9250",
+    "postal_code": "14959",
+    "website": "https://www.stadt-trebbin.de/",
+    "wikidata": "Q570114",
+    "wikipedia": "de:Trebbin"
+  }
+},
+{
+  "type": "node",
+  "id": 60125571,
+  "lat": 52.2282532,
+  "lon": 13.3531880,
+  "tags": {
+    "ele": "40",
+    "name": "Schünow",
+    "place": "hamlet",
+    "postal_code": "15806",
+    "wikidata": "Q1498670",
+    "wikipedia": "de:Schünow"
+  }
+},
+{
+  "type": "node",
+  "id": 96509136,
+  "lat": 52.2476593,
+  "lon": 13.3414561,
+  "tags": {
+    "name": "Werben",
+    "place": "hamlet",
+    "wikidata": "Q2560030"
+  }
+},
+{
+  "type": "node",
+  "id": 240047552,
+  "lat": 52.2118805,
+  "lon": 13.1474208,
+  "tags": {
+    "check_date": "2026-11-17",
+    "ele": "42",
+    "name": "Schönhagen",
+    "place": "village",
+    "population": "282",
+    "population:date": "2024-12-31",
+    "source:population": "wikipedia",
+    "website": "https://www.stadt-trebbin.de/clauertstadt-trebbin/wir-stellen-uns-vor/ortsteile/schoenhagen",
+    "wikidata": "Q24231400",
+    "wikimedia_commons": "Category:Schönhagen (Trebbin)",
+    "wikipedia": "de:Schönhagen (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 240062394,
+  "lat": 52.1889634,
+  "lon": 13.3236593,
+  "tags": {
+    "ele": "40",
+    "name": "Gadsdorf",
+    "place": "hamlet",
+    "postal_code": "15838",
+    "wikidata": "Q1490921",
+    "wikipedia": "de:Gadsdorf (Am Mellensee)"
+  }
+},
+{
+  "type": "node",
+  "id": 240078281,
+  "lat": 52.2512226,
+  "lon": 13.3798049,
+  "tags": {
+    "ele": "53",
+    "name": "Glienick",
+    "place": "village",
+    "population": "1271",
+    "postal_code": "15806",
+    "wikidata": "Q1531384",
+    "wikipedia": "de:Glienick (Zossen)"
+  }
+},
+{
+  "type": "node",
+  "id": 240083326,
+  "lat": 52.1667867,
+  "lon": 13.3716547,
+  "tags": {
+    "ele": "39",
+    "name": "Rehagen",
+    "place": "village",
+    "population": "733",
+    "postal_code": "15838",
+    "wikidata": "Q2138876",
+    "wikipedia": "de:Rehagen (Am Mellensee)"
+  }
+},
+{
+  "type": "node",
+  "id": 240091565,
+  "lat": 52.1929513,
+  "lon": 13.3848820,
+  "tags": {
+    "ele": "39",
+    "name": "Saalow",
+    "place": "village",
+    "population": "695",
+    "postal_code": "15838",
+    "wikidata": "Q1642125",
+    "wikipedia": "de:Saalow"
+  }
+},
+{
+  "type": "node",
+  "id": 240093298,
+  "lat": 52.1865948,
+  "lon": 13.2879682,
+  "tags": {
+    "check_date": "2026-11-21",
+    "ele": "42",
+    "name": "Lüdersdorf",
+    "place": "village",
+    "population": "400",
+    "population:date": "2024-12-31",
+    "postal_code": "14959",
+    "source:population": "wikipedia",
+    "website": "https://www.stadt-trebbin.de/clauertstadt-trebbin/wir-stellen-uns-vor/ortsteile/luedersdorf",
+    "wikidata": "Q1880236",
+    "wikimedia_commons": "Category:Lüdersdorf (Trebbin)",
+    "wikipedia": "de:Lüdersdorf (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 240117726,
+  "lat": 52.2910791,
+  "lon": 13.0630367,
+  "tags": {
+    "check_date": "2026-11-11",
+    "ele": "41",
+    "image": "https://commons.wikimedia.org/wiki/File:Lausitz_Luftsport- & Techniktage 2013-Hinflug by-RaBoe 1039.jpg",
+    "name": "Wildenbruch",
+    "place": "village",
+    "population": "2615",
+    "population:date": "2025-12-31",
+    "postal_code": "14552",
+    "source:population": "wikipedia",
+    "website": "https://www.wildenbruch.de/",
+    "wikidata": "Q1522443",
+    "wikimedia_commons": "Category:Wildenbruch (Michendorf)",
+    "wikipedia": "de:Wildenbruch (Michendorf)"
+  }
+},
+{
+  "type": "node",
+  "id": 240130058,
+  "lat": 52.1029663,
+  "lon": 13.3751784,
+  "tags": {
+    "name": "Kummersdorf-Gut",
+    "place": "hamlet",
+    "wikidata": "Q565801",
+    "wikipedia": "de:Kummersdorf-Gut"
+  }
+},
+{
+  "type": "node",
+  "id": 245560856,
+  "lat": 52.2382388,
+  "lon": 13.1304714,
+  "tags": {
+    "check_date": "2026-11-18",
+    "ele": "35",
+    "name": "Blankensee",
+    "name:ru": "Бланкензее",
+    "place": "village",
+    "population": "559",
+    "population:date": "2024-12-31",
+    "postal_code": "14959",
+    "source:population": "wikipedia",
+    "url": "http://www.blankensee.eu/",
+    "website": "https://blankensee.org/",
+    "wikidata": "Q881612",
+    "wikimedia_commons": "Category:Blankensee (Trebbin)",
+    "wikipedia": "de:Blankensee (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 245560860,
+  "lat": 52.2722445,
+  "lon": 13.1171102,
+  "tags": {
+    "check_date": "2026-11-15",
+    "ele": "36",
+    "name": "Tremsdorf",
+    "name:ru": "Тремсдорф",
+    "place": "village",
+    "population": "239",
+    "population:date": "2024-05",
+    "postal_code": "14558",
+    "source:population": "wikipedia",
+    "wikidata": "Q1398166",
+    "wikimedia_commons": "Category:Tremsdorf",
+    "wikipedia": "de:Tremsdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 245560861,
+  "lat": 52.2457084,
+  "lon": 13.0788213,
+  "tags": {
+    "check_date": "2026-11-11",
+    "contact:facebook": "https://www.facebook.com/stuecken.de",
+    "ele": "39",
+    "name": "Stücken",
+    "place": "village",
+    "population": "498",
+    "population:date": "2025-12-31",
+    "postal_code": "14552",
+    "source:population": "wikipedia",
+    "website": "https://stuecken.de",
+    "wikidata": "Q2441",
+    "wikimedia_commons": "Category:Stücken",
+    "wikipedia": "de:Stücken"
+  }
+},
+{
+  "type": "node",
+  "id": 245560862,
+  "lat": 52.2704943,
+  "lon": 13.0774788,
+  "tags": {
+    "check_date": "2026-11-11",
+    "ele": "46",
+    "name": "Fresdorf",
+    "place": "village",
+    "population": "312",
+    "population:date": "2025-12-31",
+    "postal_code": "14552",
+    "source:population": "wikipedia",
+    "wikidata": "Q1455653",
+    "wikimedia_commons": "Category:Fresdorf",
+    "wikipedia": "de:Fresdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 257393891,
+  "lat": 52.1655452,
+  "lon": 13.0620201,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "39",
+    "name": "Dobbrikow",
+    "place": "village",
+    "population": "402",
+    "population:date": "2025-12-31",
+    "postal_code": "14947",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.dobbrikow.de/",
+    "wikidata": "Q1233146",
+    "wikimedia_commons": "Category:Dobbrikow",
+    "wikipedia": "de:Dobbrikow"
+  }
+},
+{
+  "type": "node",
+  "id": 257395056,
+  "lat": 52.1908305,
+  "lon": 13.0372161,
+  "tags": {
+    "check_date": "2026-11-08",
+    "ele": "39",
+    "name": "Rieben",
+    "place": "village",
+    "population": "288",
+    "population:date": "2026",
+    "postal_code": "14547",
+    "source:population": "https://beelitz.de/beelitz-und-seine-ortsteile/#rieben",
+    "website": "https://beelitz.de/beelitz-und-seine-ortsteile/#rieben",
+    "wikidata": "Q2151933",
+    "wikimedia_commons": "Category:Rieben (Beelitz)",
+    "wikipedia": "de:Rieben (Beelitz)"
+  }
+},
+{
+  "type": "node",
+  "id": 257538323,
+  "lat": 52.1755454,
+  "lon": 13.2378759,
+  "tags": {
+    "name": "Wiesenhagen",
+    "place": "village",
+    "wikidata": "Q2569444",
+    "wikipedia": "de:Wiesenhagen"
+  }
+},
+{
+  "type": "node",
+  "id": 257577611,
+  "lat": 52.0806340,
+  "lon": 13.3234657,
+  "tags": {
+    "check_date": "2026-09-25",
+    "name": "Schönefeld",
+    "place": "village",
+    "population": "348",
+    "population:date": "2025-12-31",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/ortsteile-von-a-bis-z/schoenefeld/",
+    "wikidata": "Q51751338",
+    "wikimedia_commons": "Category:Schönefeld (Nuthe-Urstromtal)",
+    "wikipedia": "de:Schönefeld (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 257577612,
+  "lat": 52.0753106,
+  "lon": 13.3142899,
+  "tags": {
+    "check_date": "2026-09-25",
+    "ele": "50",
+    "image": "https://commons.wikimedia.org/wiki/File:Nuthe-Urstromtal_Dümde.jpg",
+    "name": "Dümde",
+    "place": "village",
+    "population": "161",
+    "population:date": "2025-12-31",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/ortsteile-von-a-bis-z/duemde/",
+    "wikidata": "Q32964354",
+    "wikimedia_commons": "Category:Dümde",
+    "wikipedia": "de:Dümde"
+  }
+},
+{
+  "type": "node",
+  "id": 257577613,
+  "lat": 52.0906085,
+  "lon": 13.2657333,
+  "tags": {
+    "check_date": "2026-09-25",
+    "name": "Gottow",
+    "place": "village",
+    "population": "283",
+    "population:date": "2025-12-31",
+    "postal_code": "14947",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/ortsteile-von-a-bis-z/gottow/",
+    "wikidata": "Q53889483",
+    "wikimedia_commons": "Category:Gottow",
+    "wikipedia": "de:Gottow"
+  }
+},
+{
+  "type": "node",
+  "id": 259697979,
+  "lat": 52.1279091,
+  "lon": 13.1681484,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "44",
+    "name": "Ruhlsdorf",
+    "place": "village",
+    "population": "364",
+    "population:date": "2025-12-31",
+    "postal_code": "14947",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "wikidata": "Q2174981",
+    "wikimedia_commons": "Category:Ruhlsdorf (Nuthe-Urstromtal)",
+    "wikipedia": "de:Ruhlsdorf (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 259701506,
+  "lat": 52.1482903,
+  "lon": 13.1927389,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "39",
+    "image": "https://commons.wikimedia.org/wiki/File:Liebätz.jpg",
+    "name": "Liebätz",
+    "place": "village",
+    "population": "70",
+    "population:date": "2025-12-31",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/ortsteile-von-a-bis-z/liebaetz/",
+    "wikidata": "Q26103001",
+    "wikimedia_commons": "Category:Liebätz",
+    "wikipedia": "de:Liebätz"
+  }
+},
+{
+  "type": "node",
+  "id": 259701507,
+  "lat": 52.1628255,
+  "lon": 13.1851999,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "39",
+    "name": "Märtensmühle",
+    "place": "village",
+    "population": "146",
+    "population:date": "2025-12-31",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/ortsteile-von-a-bis-z/maertensmuehle/",
+    "wikidata": "Q26128643",
+    "wikimedia_commons": "Category:Märtensmühle",
+    "wikipedia": "de:Märtensmühle"
+  }
+},
+{
+  "type": "node",
+  "id": 259701509,
+  "lat": 52.1883912,
+  "lon": 13.1634013,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "33",
+    "name": "Ahrensdorf",
+    "place": "village",
+    "population": "120",
+    "population:date": "2025-12-31",
+    "postal_code": "14947",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "wikidata": "Q26128597",
+    "wikimedia_commons": "Category:Ahrensdorf (Nuthe-Urstromtal)",
+    "wikipedia": "de:Ahrensdorf (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 260286991,
+  "lat": 52.1130758,
+  "lon": 13.1998191,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "42",
+    "name": "Woltersdorf",
+    "place": "village",
+    "population": "1052",
+    "population:date": "2025-12-31",
+    "postal_code": "14947",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/ortsteile-von-a-bis-z/woltersdorf/",
+    "wikidata": "Q1498462",
+    "wikimedia_commons": "Category:Woltersdorf (Nuthe-Urstromtal)",
+    "wikipedia": "de:Woltersdorf (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 260627310,
+  "lat": 52.1385951,
+  "lon": 13.1207329,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "45",
+    "name": "Berkenbrück",
+    "place": "village",
+    "population": "232",
+    "population:date": "2025-12-31",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "wikidata": "Q32843484",
+    "wikimedia_commons": "Category:Berkenbrück (Nuthe-Urstromtal)",
+    "wikipedia": "de:Berkenbrück (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 260627389,
+  "lat": 52.1285886,
+  "lon": 13.0746986,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "45",
+    "name": "Gottsdorf",
+    "place": "village",
+    "population": "141",
+    "population:date": "2025-12-31",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "wikidata": "Q38163780",
+    "wikimedia_commons": "Category:Gottsdorf (Nuthe-Urstromtal)",
+    "wikipedia": "de:Gottsdorf (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 260627443,
+  "lat": 52.1506714,
+  "lon": 13.0504396,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "44",
+    "name": "Nettgendorf",
+    "place": "village",
+    "population": "124",
+    "population:date": "2025-12-31",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "wikidata": "Q1302411",
+    "wikimedia_commons": "Category:Nettgendorf",
+    "wikipedia": "de:Nettgendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 260629696,
+  "lat": 52.1171495,
+  "lon": 13.0238286,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "48",
+    "facebook": "https://www.facebook.com/zuelichendorf.de",
+    "instagram": "https://www.instagram.com/zuelichendorf.de/",
+    "name": "Zülichendorf",
+    "place": "village",
+    "population": "294",
+    "population:date": "2025-12-31",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.zülichendorf.de/",
+    "wikidata": "Q26269452",
+    "wikimedia_commons": "Category:Zülichendorf",
+    "wikipedia": "de:Zülichendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 260629697,
+  "lat": 52.0996044,
+  "lon": 13.0737848,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "50",
+    "name": "Frankenförde",
+    "place": "village",
+    "population": "232",
+    "population:date": "2025-12-31",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "wikidata": "Q26271433",
+    "wikimedia_commons": "Category:Frankenförde",
+    "wikipedia": "de:Frankenförde"
+  }
+},
+{
+  "type": "node",
+  "id": 260629791,
+  "lat": 52.1083290,
+  "lon": 13.1089184,
+  "tags": {
+    "check_date": "2026-09-23",
+    "name": "Frankenfelde",
+    "place": "village",
+    "population": "321",
+    "population:date": "2023-12-31",
+    "source:population": "wikipedia",
+    "website": "https://www.luckenwalde.de/Stadt/Ortsteile/Frankenfelde",
+    "wikidata": "Q71994125",
+    "wikimedia_commons": "Category:Frankenfelde (Fläming)",
+    "wikipedia": "de:Frankenfelde (Luckenwalde)"
+  }
+},
+{
+  "type": "node",
+  "id": 276846973,
+  "lat": 52.2131484,
+  "lon": 13.2799844,
+  "tags": {
+    "check_date": "2026-11-20",
+    "ele": "37",
+    "name": "Christinendorf",
+    "place": "village",
+    "population": "220",
+    "population:date": "2024-12-31",
+    "postal_code": "14959",
+    "source:population": "wikipedia",
+    "website": "https://www.stadt-trebbin.de/clauertstadt-trebbin/wir-stellen-uns-vor/ortsteile/christinendorf",
+    "wikidata": "Q1083885",
+    "wikimedia_commons": "Category:Christinendorf",
+    "wikipedia": "de:Christinendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 279506782,
+  "lat": 52.2703687,
+  "lon": 13.2807503,
+  "tags": {
+    "name": "Kerzendorf",
+    "place": "village",
+    "population": "211",
+    "population:date": "2022-03-31",
+    "source:population": "Stadt Ludwigsfelde",
+    "wikidata": "Q878930",
+    "wikipedia": "de:Kerzendorf (Ludwigsfelde)"
+  }
+},
+{
+  "type": "node",
+  "id": 290667385,
+  "lat": 52.1186289,
+  "lon": 13.2393553,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "45",
+    "name": "Scharfenbrück",
+    "place": "village",
+    "population": "154",
+    "population:date": "2025-12-31",
+    "postal_code": "14947",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/ortsteile-von-a-bis-z/scharfenbrueck/",
+    "wikidata": "Q32549355",
+    "wikimedia_commons": "Category:Scharfenbrück (Nuthe-Urstromtal)",
+    "wikipedia": "de:Scharfenbrück"
+  }
+},
+{
+  "type": "node",
+  "id": 312467375,
+  "lat": 52.2180885,
+  "lon": 13.0909919,
+  "tags": {
+    "check_date": "2026-11-08",
+    "description": "Sackgassendorf",
+    "ele": "36",
+    "name": "Körzin",
+    "place": "village",
+    "population": "60",
+    "population:date": "2022-11-09",
+    "postal_code": "14547",
+    "source:population": "wikipedia",
+    "wikidata": "Q1508187",
+    "wikimedia_commons": "Category:Körzin",
+    "wikipedia": "de:Körzin"
+  }
+},
+{
+  "type": "node",
+  "id": 312468104,
+  "lat": 52.2166243,
+  "lon": 13.0517208,
+  "tags": {
+    "check_date": "2026-11-08",
+    "ele": "39",
+    "name": "Zauchwitz",
+    "place": "village",
+    "population": "291",
+    "population:date": "2006",
+    "postal_code": "14547",
+    "source:population": "https://beelitz.de/beelitz-und-seine-ortsteile/#zauchwitz",
+    "website": "https://beelitz.de/beelitz-und-seine-ortsteile/#zauchwitz",
+    "wikidata": "Q148506",
+    "wikimedia_commons": "Category:Zauchwitz",
+    "wikipedia": "de:Zauchwitz"
+  }
+},
+{
+  "type": "node",
+  "id": 316824813,
+  "lat": 52.2507349,
+  "lon": 13.2097441,
+  "tags": {
+    "check_date": "2026-11-19",
+    "ele": "37",
+    "name": "Großbeuthen",
+    "place": "village",
+    "population": "231",
+    "population:date": "2024-12-31",
+    "postal_code": "14959",
+    "source:population": "wikipedia",
+    "website": "https://www.stadt-trebbin.de/clauertstadt-trebbin/wir-stellen-uns-vor/ortsteile/gross-und-kleinbeuthen",
+    "wikidata": "Q1548049",
+    "wikimedia_commons": "Category:Großbeuthen",
+    "wikipedia": "de:Großbeuthen"
+  }
+},
+{
+  "type": "node",
+  "id": 316826437,
+  "lat": 52.2004572,
+  "lon": 13.2077492,
+  "tags": {
+    "ele": "38",
+    "name": "Kliestow",
+    "place": "village",
+    "population": "318",
+    "postal_code": "14959",
+    "wikidata": "Q1774345",
+    "wikipedia": "de:Kliestow (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 420316111,
+  "lat": 52.1785471,
+  "lon": 13.2151028,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "39",
+    "name": "Ausbau Zelle",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q109651892",
+    "wikimedia_commons": "Category:Ausbau Zelle",
+    "wikipedia": "de:Ausbau Zelle"
+  }
+},
+{
+  "type": "node",
+  "id": 420316114,
+  "lat": 52.1816416,
+  "lon": 13.2135198,
+  "tags": {
+    "check_date": "2026-11-16",
+    "name": "Ebelshof",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q91947055",
+    "wikipedia": "de:Ebelshof"
+  }
+},
+{
+  "type": "node",
+  "id": 448584081,
+  "lat": 52.2559564,
+  "lon": 13.1606795,
+  "tags": {
+    "name": "Mietgendorf",
+    "place": "hamlet",
+    "wikidata": "Q1932235",
+    "wikipedia": "de:Mietgendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 472226770,
+  "lat": 52.2403393,
+  "lon": 13.1672144,
+  "tags": {
+    "check_date": "2026-11-19",
+    "ele": "37",
+    "name": "Glau",
+    "place": "village",
+    "population": "439",
+    "population:date": "2024-12-31",
+    "postal_code": "14959",
+    "source:population": "wikipedia",
+    "website": "https://www.stadt-trebbin.de/clauertstadt-trebbin/wir-stellen-uns-vor/ortsteile/glau",
+    "wikidata": "Q28656492",
+    "wikimedia_commons": "Category:Glau (Trebbin)",
+    "wikipedia": "de:Glau (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 480631342,
+  "lat": 52.2934823,
+  "lon": 13.3184071,
+  "tags": {
+    "name": "Priesterviertel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 480631445,
+  "lat": 52.2921278,
+  "lon": 13.3166990,
+  "tags": {
+    "name": "Müllergarten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 480631499,
+  "lat": 52.2910621,
+  "lon": 13.3140469,
+  "tags": {
+    "name": "Müllende",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 480632917,
+  "lat": 52.2909151,
+  "lon": 13.2936792,
+  "tags": {
+    "name": "Weinberg",
+    "place": "hamlet",
+    "wikidata": "Q97358548",
+    "wikipedia": "de:Weinberg (Ludwigsfelde)"
+  }
+},
+{
+  "type": "node",
+  "id": 480634349,
+  "lat": 52.2826654,
+  "lon": 13.2983263,
+  "tags": {
+    "name": "Schinderberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 485560154,
+  "lat": 52.2905982,
+  "lon": 13.3341502,
+  "tags": {
+    "name": "Dreiangel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 485568118,
+  "lat": 52.2787712,
+  "lon": 13.3447851,
+  "tags": {
+    "name": "Heukenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 485568249,
+  "lat": 52.2811079,
+  "lon": 13.3364252,
+  "tags": {
+    "name": "Winkel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 485568303,
+  "lat": 52.2755205,
+  "lon": 13.3194651,
+  "tags": {
+    "name": "Die Horst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 485568436,
+  "lat": 52.2745174,
+  "lon": 13.3082384,
+  "tags": {
+    "name": "Die Ginsterwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 513425519,
+  "lat": 52.2696835,
+  "lon": 13.0408511,
+  "tags": {
+    "check_date": "2026-11-10",
+    "ele": "40",
+    "name": "Kähnsdorf",
+    "place": "village",
+    "population": "360",
+    "population:date": "2023-12-31",
+    "postal_code": "14554",
+    "wikidata": "Q832358",
+    "wikimedia_commons": "Category:Kähnsdorf",
+    "wikipedia": "de:Kähnsdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 623999800,
+  "lat": 52.2339099,
+  "lon": 13.3781773,
+  "tags": {
+    "name": "Waldsiedlung",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 624696294,
+  "lat": 52.1547278,
+  "lon": 13.3360286,
+  "tags": {
+    "name": "Triftenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624696979,
+  "lat": 52.1506794,
+  "lon": 13.3230896,
+  "tags": {
+    "name": "Das Kalte Wasser",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624702893,
+  "lat": 52.1584137,
+  "lon": 13.3017416,
+  "tags": {
+    "name": "Forst Kummersdorf",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624711618,
+  "lat": 52.1635607,
+  "lon": 13.2777925,
+  "tags": {
+    "name": "Scharfe Winkel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624783673,
+  "lat": 52.1445182,
+  "lon": 13.3266037,
+  "tags": {
+    "name": "Forst Kummersdorf",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624783957,
+  "lat": 52.1426614,
+  "lon": 13.3513765,
+  "tags": {
+    "name": "Die Welken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624785425,
+  "lat": 52.1452859,
+  "lon": 13.3521321,
+  "tags": {
+    "name": "Bleiche",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624786461,
+  "lat": 52.1501218,
+  "lon": 13.3366061,
+  "tags": {
+    "name": "Die See-Enden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624786629,
+  "lat": 52.1494700,
+  "lon": 13.3334626,
+  "tags": {
+    "name": "Das Feldland",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624818651,
+  "lat": 52.1255341,
+  "lon": 13.3040988,
+  "tags": {
+    "name": "Alter Raubbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624824093,
+  "lat": 52.1333519,
+  "lon": 13.3531188,
+  "tags": {
+    "name": "Die Schünschenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624824499,
+  "lat": 52.1363022,
+  "lon": 13.3561229,
+  "tags": {
+    "name": "Die Steinbergenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624826210,
+  "lat": 52.1326077,
+  "lon": 13.3619165,
+  "tags": {
+    "name": "Hinter den Kohlöfen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624826352,
+  "lat": 52.1332400,
+  "lon": 13.3638262,
+  "tags": {
+    "name": "Das große Kreuz",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624826774,
+  "lat": 52.1339051,
+  "lon": 13.3654248,
+  "tags": {
+    "name": "Das kleine Kreuz",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624827923,
+  "lat": 52.1351827,
+  "lon": 13.3652102,
+  "tags": {
+    "name": "Die Klöterchen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624828289,
+  "lat": 52.1362824,
+  "lon": 13.3646416,
+  "tags": {
+    "name": "Schmiedeenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624830240,
+  "lat": 52.1377561,
+  "lon": 13.3496408,
+  "tags": {
+    "name": "Dümpelenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624830656,
+  "lat": 52.1339103,
+  "lon": 13.3461647,
+  "tags": {
+    "name": "Die Heegeseeenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624831654,
+  "lat": 52.1273308,
+  "lon": 13.3175294,
+  "tags": {
+    "name": "Forst Kummersdorf",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624837693,
+  "lat": 52.1257764,
+  "lon": 13.2707946,
+  "tags": {
+    "name": "Die Werft",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624838008,
+  "lat": 52.1269686,
+  "lon": 13.2689815,
+  "tags": {
+    "name": "Habichtshorst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624839800,
+  "lat": 52.1226781,
+  "lon": 13.2539312,
+  "tags": {
+    "name": "Neue Heide",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624894533,
+  "lat": 52.1585059,
+  "lon": 13.2806920,
+  "tags": {
+    "name": "Fauler Brückenhorst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 624902132,
+  "lat": 52.1536613,
+  "lon": 13.3062477,
+  "tags": {
+    "name": "Behrendts Grab",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625279640,
+  "lat": 52.1810412,
+  "lon": 13.2916034,
+  "tags": {
+    "name": "Hinterste Briesche",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625280130,
+  "lat": 52.1814476,
+  "lon": 13.2956177,
+  "tags": {
+    "name": "Nachtbucht",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625283383,
+  "lat": 52.1786310,
+  "lon": 13.2989595,
+  "tags": {
+    "name": "Brieschenbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625286868,
+  "lat": 52.1694854,
+  "lon": 13.2978330,
+  "tags": {
+    "name": "Eichelkamp",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625289319,
+  "lat": 52.1747361,
+  "lon": 13.2899687,
+  "tags": {
+    "name": "Schultenhörste",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625293576,
+  "lat": 52.1780323,
+  "lon": 13.2672880,
+  "tags": {
+    "name": "Werbensche Wiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625304675,
+  "lat": 52.1525344,
+  "lon": 13.2697683,
+  "tags": {
+    "name": "Breiter Steinbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625328833,
+  "lat": 52.1516562,
+  "lon": 13.3330595,
+  "tags": {
+    "name": "Die Lehdigen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625645174,
+  "lat": 52.1113630,
+  "lon": 13.3780537,
+  "tags": {
+    "name": "Mönningwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625648765,
+  "lat": 52.1208236,
+  "lon": 13.3753071,
+  "tags": {
+    "name": "Am See",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 625649726,
+  "lat": 52.1196774,
+  "lon": 13.3662305,
+  "tags": {
+    "name": "Mannsluch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626628308,
+  "lat": 52.1577996,
+  "lon": 13.3396695,
+  "tags": {
+    "name": "Kummersdorf",
+    "place": "village",
+    "postal_code": "15838"
+  }
+},
+{
+  "type": "node",
+  "id": 626628503,
+  "lat": 52.1633479,
+  "lon": 13.3300135,
+  "tags": {
+    "name": "Alexanderdorf",
+    "place": "village",
+    "postal_code": "15838"
+  }
+},
+{
+  "type": "node",
+  "id": 626630963,
+  "lat": 52.1371861,
+  "lon": 13.3813203,
+  "tags": {
+    "name": "Der Gipsbruch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626631172,
+  "lat": 52.1357439,
+  "lon": 13.3787025,
+  "tags": {
+    "name": "Der Schloßberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626632672,
+  "lat": 52.1368006,
+  "lon": 13.3740418,
+  "tags": {
+    "name": "Die mittelsten Enden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626676793,
+  "lat": 52.1407018,
+  "lon": 13.3810382,
+  "tags": {
+    "name": "Die hintersten Bruchenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626678874,
+  "lat": 52.1450276,
+  "lon": 13.3847074,
+  "tags": {
+    "name": "Die langen Ledigen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626680889,
+  "lat": 52.1450935,
+  "lon": 13.3812957,
+  "tags": {
+    "name": "Die Luchstücken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626781466,
+  "lat": 52.1118401,
+  "lon": 13.3831671,
+  "tags": {
+    "name": "Wuckenstücken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626833555,
+  "lat": 52.1148819,
+  "lon": 13.3771865,
+  "tags": {
+    "name": "Mönninghausen",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 626837413,
+  "lat": 52.1202212,
+  "lon": 13.3505928,
+  "tags": {
+    "name": "Die Horstwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626837481,
+  "lat": 52.1215160,
+  "lon": 13.3561091,
+  "tags": {
+    "name": "Der große Horst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626837675,
+  "lat": 52.1242809,
+  "lon": 13.3511062,
+  "tags": {
+    "name": "Der kleine Horst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 626840541,
+  "lat": 52.1269007,
+  "lon": 13.3388976,
+  "tags": {
+    "name": "Nachtbuchtwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 628149946,
+  "lat": 52.2283457,
+  "lon": 13.3242345,
+  "tags": {
+    "name": "Mühlenfeld",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 628150053,
+  "lat": 52.2290423,
+  "lon": 13.3173359,
+  "tags": {
+    "name": "Mühlenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 628156109,
+  "lat": 52.2244937,
+  "lon": 13.3272362,
+  "tags": {
+    "name": "Hinterm Kreuzweg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 628163481,
+  "lat": 52.2214836,
+  "lon": 13.3369888,
+  "tags": {
+    "name": "Berlinikin",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 889348689,
+  "lat": 52.1623357,
+  "lon": 13.1250838,
+  "tags": {
+    "name": "alter Schiessstand",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 983965477,
+  "lat": 52.2416472,
+  "lon": 13.2930906,
+  "tags": {
+    "check_date": "2026-11-20",
+    "ele": "42",
+    "name": "Märkisch Wilmersdorf",
+    "old_name": "Wendisch Wilmersdorf",
+    "place": "village",
+    "population": "220",
+    "population:date": "2024-12-31",
+    "postal_code": "14959",
+    "source:population": "wikipedia",
+    "website": "https://www.stadt-trebbin.de/clauertstadt-trebbin/wir-stellen-uns-vor/ortsteile/maerkisch-wilmersdorf",
+    "wikidata": "Q1957426",
+    "wikimedia_commons": "Category:Märkisch Wilmersdorf",
+    "wikipedia": "de:Märkisch Wilmersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 1044170592,
+  "lat": 52.1938395,
+  "lon": 13.2439913,
+  "tags": {
+    "name": "Klein Schulzendorf",
+    "place": "village",
+    "wikidata": "Q1746257",
+    "wikipedia": "de:Klein Schulzendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 1088735591,
+  "lat": 52.1374869,
+  "lon": 13.0844479,
+  "tags": {
+    "check_date": "2026-08-30",
+    "name": "Klinkenmühle",
+    "place": "isolated_dwelling",
+    "wikidata": "Q116250978",
+    "wikimedia_commons": "Category:Klinkenmühle_(Nuthe-Urstromtal)",
+    "wikipedia": "de:Klinkenmühle (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 1106060647,
+  "lat": 52.1643699,
+  "lon": 13.1004615,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "40",
+    "name": "Hennickendorf",
+    "place": "village",
+    "population": "519",
+    "population:date": "2025-12-31",
+    "postal_code": "14947",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/ortsteile-von-a-bis-z/hennickendorf/",
+    "wikidata": "Q1605422",
+    "wikimedia_commons": "Category:Hennickendorf (Nuthe-Urstromtal)",
+    "wikipedia": "de:Hennickendorf (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 1142018082,
+  "lat": 52.2358895,
+  "lon": 13.1088893,
+  "tags": {
+    "alt_name": "Breite",
+    "check_date": "2026-11-12",
+    "name": "Gut Breite",
+    "place": "isolated_dwelling",
+    "postal_code": "14552",
+    "wikidata": "Q101554585",
+    "wikimedia_commons": "Category:Gut Breite",
+    "wikipedia": "de:Gut Breite"
+  }
+},
+{
+  "type": "node",
+  "id": 1289204373,
+  "lat": 52.0686187,
+  "lon": 13.3047017,
+  "tags": {
+    "name": "Hollertwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1289204380,
+  "lat": 52.0717249,
+  "lon": 13.2835122,
+  "tags": {
+    "name": "Hinterste Hutung",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1289204399,
+  "lat": 52.0783060,
+  "lon": 13.2890376,
+  "tags": {
+    "name": "Horstkloten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1289204405,
+  "lat": 52.0670032,
+  "lon": 13.2864627,
+  "tags": {
+    "name": "Donhards Wiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1289204415,
+  "lat": 52.0756025,
+  "lon": 13.2860228,
+  "tags": {
+    "name": "Neue Wiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1289204416,
+  "lat": 52.0784049,
+  "lon": 13.2929643,
+  "tags": {
+    "name": "Großstücken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1289204417,
+  "lat": 52.0700634,
+  "lon": 13.2956465,
+  "tags": {
+    "name": "Vorderste Hutung",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1289204429,
+  "lat": 52.0660003,
+  "lon": 13.3156022,
+  "tags": {
+    "name": "Zwischen den Fließen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1351929099,
+  "lat": 52.1230675,
+  "lon": 13.3120709,
+  "tags": {
+    "name": "Picher Luch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1351938940,
+  "lat": 52.1245035,
+  "lon": 13.3451157,
+  "tags": {
+    "name": "Der Friedrichsberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1351938942,
+  "lat": 52.1261700,
+  "lon": 13.3473044,
+  "tags": {
+    "name": "Die Nachtbucht",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1351939151,
+  "lat": 52.1260185,
+  "lon": 13.3545893,
+  "tags": {
+    "name": "Berendsland",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1352420343,
+  "lat": 52.1170015,
+  "lon": 13.2396955,
+  "tags": {
+    "name": "Schulschlag",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1352896532,
+  "lat": 52.1104262,
+  "lon": 13.2863148,
+  "tags": {
+    "name": "Triftkiefern",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1352896560,
+  "lat": 52.1089018,
+  "lon": 13.2824298,
+  "tags": {
+    "name": "Schladeberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1352896575,
+  "lat": 52.1084798,
+  "lon": 13.2843825,
+  "tags": {
+    "name": "Dammenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1352896579,
+  "lat": 52.1074192,
+  "lon": 13.2849082,
+  "tags": {
+    "name": "Klöten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1352896606,
+  "lat": 52.1042189,
+  "lon": 13.2753461,
+  "tags": {
+    "name": "Vorm Ende",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1353100048,
+  "lat": 52.1157157,
+  "lon": 13.2587811,
+  "tags": {
+    "name": "Kortsche Wiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1353102642,
+  "lat": 52.1151095,
+  "lon": 13.2514962,
+  "tags": {
+    "name": "Kirchhofschlag",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1353112429,
+  "lat": 52.1163539,
+  "lon": 13.2630379,
+  "tags": {
+    "name": "Werft",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1353115272,
+  "lat": 52.1107075,
+  "lon": 13.2677908,
+  "tags": {
+    "name": "Hofwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1353898665,
+  "lat": 52.1073418,
+  "lon": 13.2724466,
+  "tags": {
+    "check_date": "2026-09-24",
+    "ele": "45",
+    "name": "Schöneweide",
+    "place": "village",
+    "population": "164",
+    "population:date": "2025-12-31",
+    "postal_code": "14947",
+    "source:population": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/zahlen-und-fakten/",
+    "website": "https://www.nuthe-urstromtal.de/gemeinde-und-ihre-ortsteile/ortsteile-von-a-bis-z/schoeneweide/",
+    "wikidata": "Q32843466",
+    "wikimedia_commons": "Category:Schöneweide (Nuthe-Urstromtal)",
+    "wikipedia": "de:Schöneweide (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 1354249792,
+  "lat": 52.1157540,
+  "lon": 13.3793167,
+  "tags": {
+    "name": "Mönningfeld",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1432194820,
+  "lat": 52.2188715,
+  "lon": 13.2011108,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "37",
+    "name": "Löwendorf",
+    "place": "village",
+    "population": "566",
+    "population:date": "2025-12-31",
+    "postal_code": "14959",
+    "source:population": "wikipedia",
+    "website": "https://loewendorf.de/",
+    "wikidata": "Q15119084",
+    "wikimedia_commons": "Category:Löwendorf (Trebbin)",
+    "wikipedia": "de:Löwendorf (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 1491354374,
+  "lat": 52.2560301,
+  "lon": 13.0835354,
+  "tags": {
+    "loc_name": "\"Versunkener Krug\"",
+    "name": "Der versunkene Krug",
+    "note": "Umgangssprachliche Bezeichnung für die Baumgruppe",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2126928862,
+  "lat": 52.1421419,
+  "lon": 13.3608507,
+  "tags": {
+    "name": "Wahlhofenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2126930132,
+  "lat": 52.1480319,
+  "lon": 13.3594015,
+  "tags": {
+    "name": "Birkenstrauch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2582761499,
+  "lat": 52.2877022,
+  "lon": 13.3211723,
+  "tags": {
+    "name": "Torfkuten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2827315351,
+  "lat": 52.1529454,
+  "lon": 13.3427875,
+  "tags": {
+    "name": "Der Winkel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2827315367,
+  "lat": 52.1555750,
+  "lon": 13.3459901,
+  "tags": {
+    "name": "Die Havelwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2827315386,
+  "lat": 52.1546230,
+  "lon": 13.3436407,
+  "tags": {
+    "name": "Die Teichwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2827315389,
+  "lat": 52.1556013,
+  "lon": 13.3411299,
+  "tags": {
+    "name": "Im Dorfe",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2827319903,
+  "lat": 52.1538999,
+  "lon": 13.3401536,
+  "tags": {
+    "name": "Die Teichenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000392,
+  "lat": 52.0790774,
+  "lon": 13.3471233,
+  "tags": {
+    "name": "Vor der Schmelze",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000397,
+  "lat": 52.0771163,
+  "lon": 13.3398337,
+  "tags": {
+    "name": "Hammer",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000414,
+  "lat": 52.0788959,
+  "lon": 13.3518867,
+  "tags": {
+    "name": "Lange Grundenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000419,
+  "lat": 52.0782728,
+  "lon": 13.3564786,
+  "tags": {
+    "name": "Luchenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000425,
+  "lat": 52.0647271,
+  "lon": 13.3752648,
+  "tags": {
+    "name": "Flemmingswiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000427,
+  "lat": 52.0773627,
+  "lon": 13.3348817,
+  "tags": {
+    "name": "Bucht",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000437,
+  "lat": 52.0804489,
+  "lon": 13.3570260,
+  "tags": {
+    "name": "Schmelzenden",
+    "note": "Name korrekt?",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000440,
+  "lat": 52.0820708,
+  "lon": 13.3395595,
+  "tags": {
+    "name": "Schmalen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000446,
+  "lat": 52.0808771,
+  "lon": 13.3491511,
+  "tags": {
+    "name": "Breite Winkel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000458,
+  "lat": 52.0664906,
+  "lon": 13.3559030,
+  "tags": {
+    "name": "Lange Horst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195000459,
+  "lat": 52.0805148,
+  "lon": 13.3535177,
+  "tags": {
+    "name": "Vor der Pechhütte",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195009563,
+  "lat": 52.0804617,
+  "lon": 13.3421559,
+  "tags": {
+    "name": "Kack-Horst",
+    "note": "Yes. Seriously.",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195009564,
+  "lat": 52.0780818,
+  "lon": 13.3295924,
+  "tags": {
+    "name": "Alte Wiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195009584,
+  "lat": 52.0830189,
+  "lon": 13.3573785,
+  "tags": {
+    "name": "Wüste Stücken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195009593,
+  "lat": 52.0822225,
+  "lon": 13.3322424,
+  "tags": {
+    "name": "Breiten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195017293,
+  "lat": 52.0677995,
+  "lon": 13.3310928,
+  "tags": {
+    "name": "Lange Horstberge",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195017323,
+  "lat": 52.0761685,
+  "lon": 13.3225098,
+  "tags": {
+    "name": "Hinter Schönefeld",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195023067,
+  "lat": 52.0745925,
+  "lon": 13.3220806,
+  "tags": {
+    "name": "Schiele",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3195023069,
+  "lat": 52.0730966,
+  "lon": 13.3337015,
+  "tags": {
+    "name": "Brüggefeld",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3240106650,
+  "lat": 52.0880422,
+  "lon": 13.2181133,
+  "tags": {
+    "check_date": "2026-09-25",
+    "name": "Moldenhütten",
+    "place": "hamlet",
+    "wikidata": "Q53952157",
+    "wikimedia_commons": "Category:Moldenhütten",
+    "wikipedia": "de:Moldenhütten"
+  }
+},
+{
+  "type": "node",
+  "id": 3416402008,
+  "lat": 52.2893875,
+  "lon": 13.3690227,
+  "tags": {
+    "name": "Priesterwiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3416402016,
+  "lat": 52.2917219,
+  "lon": 13.3688699,
+  "tags": {
+    "name": "Heudreue",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3416402041,
+  "lat": 52.2915037,
+  "lon": 13.3720483,
+  "tags": {
+    "name": "An der Heudreue",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3416405519,
+  "lat": 52.2778016,
+  "lon": 13.3643688,
+  "tags": {
+    "name": "Liefelds Kiesgrube",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3416405520,
+  "lat": 52.2764147,
+  "lon": 13.3677986,
+  "tags": {
+    "name": "Siebken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3416405521,
+  "lat": 52.2758041,
+  "lon": 13.3723422,
+  "tags": {
+    "name": "Rauenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3416405522,
+  "lat": 52.2752003,
+  "lon": 13.3644887,
+  "tags": {
+    "name": "Nieß",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3425377514,
+  "lat": 52.2189990,
+  "lon": 13.3814659,
+  "tags": {
+    "name": "Henerssche Lehmgrube",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3456453903,
+  "lat": 52.2429055,
+  "lon": 13.2759791,
+  "tags": {
+    "name": "Große Wiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3456453911,
+  "lat": 52.2415587,
+  "lon": 13.2728784,
+  "tags": {
+    "name": "Bullenwiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3460471104,
+  "lat": 52.2445376,
+  "lon": 13.2365856,
+  "tags": {
+    "name": "Grundstücken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3460471178,
+  "lat": 52.2411317,
+  "lon": 13.2496503,
+  "tags": {
+    "name": "Legeland",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3460471286,
+  "lat": 52.2476674,
+  "lon": 13.2490066,
+  "tags": {
+    "name": "Mühleberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3460471328,
+  "lat": 52.2360267,
+  "lon": 13.2378502,
+  "tags": {
+    "name": "Wiese unter den Grundstücken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3460471360,
+  "lat": 52.2468236,
+  "lon": 13.2407108,
+  "tags": {
+    "name": "Die Krugsteinstücke",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3460502887,
+  "lat": 52.2458602,
+  "lon": 13.2142320,
+  "tags": {
+    "name": "Vorm Friedhof",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3460503969,
+  "lat": 52.2476708,
+  "lon": 13.2100407,
+  "tags": {
+    "name": "Schulacker",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3460506703,
+  "lat": 52.2436996,
+  "lon": 13.2202315,
+  "tags": {
+    "name": "Thyrower Damm",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3460511732,
+  "lat": 52.2654287,
+  "lon": 13.2090287,
+  "tags": {
+    "name": "Schmoling",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3470116318,
+  "lat": 52.2876670,
+  "lon": 13.3656075,
+  "tags": {
+    "name": "Starhorstwiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3470116320,
+  "lat": 52.2862494,
+  "lon": 13.3723345,
+  "tags": {
+    "name": "Buschwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3470116329,
+  "lat": 52.2853962,
+  "lon": 13.3618202,
+  "tags": {
+    "name": "Lindenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3470116330,
+  "lat": 52.2832759,
+  "lon": 13.3659674,
+  "tags": {
+    "name": "Mühlenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3470117657,
+  "lat": 52.2735151,
+  "lon": 13.3238939,
+  "tags": {
+    "name": "Zwölfruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530466051,
+  "lat": 52.2601696,
+  "lon": 13.3052261,
+  "tags": {
+    "name": "Die Lauseberge",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530466053,
+  "lat": 52.2445578,
+  "lon": 13.2965307,
+  "tags": {
+    "name": "Sortimentsgarten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530475997,
+  "lat": 52.2546894,
+  "lon": 13.3127309,
+  "tags": {
+    "name": "Das kalte Land",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530476017,
+  "lat": 52.2459492,
+  "lon": 13.3144887,
+  "tags": {
+    "name": "Lehmkutenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530476030,
+  "lat": 52.2485763,
+  "lon": 13.3217790,
+  "tags": {
+    "name": "Hintern Berg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530476045,
+  "lat": 52.2495930,
+  "lon": 13.3038094,
+  "tags": {
+    "name": "Baumschule",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530476048,
+  "lat": 52.2530588,
+  "lon": 13.3010961,
+  "tags": {
+    "name": "Die Gehren",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530476077,
+  "lat": 52.2559431,
+  "lon": 13.3191886,
+  "tags": {
+    "name": "Die Querenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530476218,
+  "lat": 52.2469847,
+  "lon": 13.3021414,
+  "tags": {
+    "name": "Langer Garten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530476224,
+  "lat": 52.2480592,
+  "lon": 13.2994263,
+  "tags": {
+    "name": "Herrenwiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530769107,
+  "lat": 52.2562524,
+  "lon": 13.2969497,
+  "tags": {
+    "name": "Der Wisch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530869029,
+  "lat": 52.2684317,
+  "lon": 13.3228520,
+  "tags": {
+    "name": "Der Oswinkelberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3530869030,
+  "lat": 52.2650599,
+  "lon": 13.3217249,
+  "tags": {
+    "name": "Die Hufen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531043860,
+  "lat": 52.2633234,
+  "lon": 13.3497953,
+  "tags": {
+    "name": "Lange Stücken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531156984,
+  "lat": 52.2360542,
+  "lon": 13.3262228,
+  "tags": {
+    "name": "Grundfeld",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531156985,
+  "lat": 52.2327488,
+  "lon": 13.3292043,
+  "tags": {
+    "name": "An der Kesselkute",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531197704,
+  "lat": 52.2414471,
+  "lon": 13.3224457,
+  "tags": {
+    "name": "Die Hohen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531248024,
+  "lat": 52.2510226,
+  "lon": 13.2712936,
+  "tags": {
+    "name": "Nuthestücke",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531248045,
+  "lat": 52.2483386,
+  "lon": 13.2828121,
+  "tags": {
+    "name": "Zehnruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531248066,
+  "lat": 52.2491658,
+  "lon": 13.2915603,
+  "tags": {
+    "name": "Zwölfruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531390164,
+  "lat": 52.2122236,
+  "lon": 13.3815819,
+  "tags": {
+    "name": "Das Mittelfeld",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531561595,
+  "lat": 52.2196037,
+  "lon": 13.3542502,
+  "tags": {
+    "name": "Neudämme",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531561596,
+  "lat": 52.2154100,
+  "lon": 13.3549094,
+  "tags": {
+    "name": "Die Pecken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531561597,
+  "lat": 52.2107985,
+  "lon": 13.3667761,
+  "tags": {
+    "name": "Brennen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531561599,
+  "lat": 52.2119751,
+  "lon": 13.3487731,
+  "tags": {
+    "name": "Hörste",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531561600,
+  "lat": 52.2083398,
+  "lon": 13.3716148,
+  "tags": {
+    "name": "Schmachtenhagen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531561601,
+  "lat": 52.2126653,
+  "lon": 13.3644801,
+  "tags": {
+    "name": "Die Brücken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531586357,
+  "lat": 52.2170109,
+  "lon": 13.3470319,
+  "tags": {
+    "name": "Berlinkenbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531586364,
+  "lat": 52.2193150,
+  "lon": 13.3477550,
+  "tags": {
+    "name": "Mollhaufen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531586379,
+  "lat": 52.2225783,
+  "lon": 13.3468222,
+  "tags": {
+    "name": "Lange Wiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531587660,
+  "lat": 52.2171476,
+  "lon": 13.3146274,
+  "tags": {
+    "name": "Horste",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531587669,
+  "lat": 52.2190541,
+  "lon": 13.3183922,
+  "tags": {
+    "name": "Blumsche",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531587671,
+  "lat": 52.2214992,
+  "lon": 13.3063984,
+  "tags": {
+    "name": "Dammfeld",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531587679,
+  "lat": 52.2207631,
+  "lon": 13.3081901,
+  "tags": {
+    "name": "Hütung",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531587683,
+  "lat": 52.2216895,
+  "lon": 13.3121705,
+  "tags": {
+    "name": "Doktersches",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531818248,
+  "lat": 52.2658835,
+  "lon": 13.2975235,
+  "tags": {
+    "name": "Der Priesterbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531818250,
+  "lat": 52.2693240,
+  "lon": 13.3005490,
+  "tags": {
+    "name": "Die Ginsterwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531818254,
+  "lat": 52.2601645,
+  "lon": 13.2889943,
+  "tags": {
+    "name": "Die Nachtbucht",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531818264,
+  "lat": 52.2579777,
+  "lon": 13.2704654,
+  "tags": {
+    "name": "Hütung",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531818266,
+  "lat": 52.2560728,
+  "lon": 13.2785871,
+  "tags": {
+    "name": "Hinter der Nuthe",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3531818268,
+  "lat": 52.2583586,
+  "lon": 13.2918587,
+  "tags": {
+    "name": "Am Rehberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533332975,
+  "lat": 52.2924357,
+  "lon": 13.1734685,
+  "tags": {
+    "name": "Die Enden vor der Bucht",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533579998,
+  "lat": 52.2842010,
+  "lon": 13.1702602,
+  "tags": {
+    "name": "Das Schniederluch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533579999,
+  "lat": 52.2922075,
+  "lon": 13.1628594,
+  "tags": {
+    "name": "An den Kaveln",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533580000,
+  "lat": 52.2850805,
+  "lon": 13.1657326,
+  "tags": {
+    "name": "Triftenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533580034,
+  "lat": 52.2864725,
+  "lon": 13.1655609,
+  "tags": {
+    "name": "Hinter den Gärten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533580046,
+  "lat": 52.2903301,
+  "lon": 13.1641254,
+  "tags": {
+    "name": "Die Kaveln",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533612750,
+  "lat": 52.2673564,
+  "lon": 13.1365828,
+  "tags": {
+    "name": "Der Plan",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533612758,
+  "lat": 52.2664109,
+  "lon": 13.1417541,
+  "tags": {
+    "name": "Milach",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533950167,
+  "lat": 52.2869790,
+  "lon": 13.1440479,
+  "tags": {
+    "name": "Der Plan",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533950168,
+  "lat": 52.2805665,
+  "lon": 13.1418174,
+  "tags": {
+    "name": "Judenplan",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3533950172,
+  "lat": 52.2758932,
+  "lon": 13.1408293,
+  "tags": {
+    "name": "Im Busche",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534082587,
+  "lat": 52.2938631,
+  "lon": 13.2185255,
+  "tags": {
+    "name": "Ziegelfichten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534082588,
+  "lat": 52.2933119,
+  "lon": 13.2115195,
+  "tags": {
+    "name": "Die Wiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534082590,
+  "lat": 52.2927742,
+  "lon": 13.2202635,
+  "tags": {
+    "name": "Hinterste Höhe",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534083093,
+  "lat": 52.2930567,
+  "lon": 13.2249842,
+  "tags": {
+    "name": "Insert",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534083094,
+  "lat": 52.2921636,
+  "lon": 13.2234404,
+  "tags": {
+    "name": "Spiegelgrunds Acker",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534083095,
+  "lat": 52.2909371,
+  "lon": 13.2143412,
+  "tags": {
+    "name": "Vorderste Höhe",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534083096,
+  "lat": 52.2937778,
+  "lon": 13.2135688,
+  "tags": {
+    "name": "Wiesenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534279715,
+  "lat": 52.2680840,
+  "lon": 13.1793975,
+  "tags": {
+    "name": "Vorderste Dämken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534279716,
+  "lat": 52.2700096,
+  "lon": 13.1724876,
+  "tags": {
+    "name": "Die Lotsche",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534279717,
+  "lat": 52.2710270,
+  "lon": 13.1806962,
+  "tags": {
+    "name": "Die Nachtbucht",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3534285813,
+  "lat": 52.2665776,
+  "lon": 13.1712480,
+  "tags": {
+    "name": "Das Neue Land",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3542343737,
+  "lat": 52.2610597,
+  "lon": 13.0852587,
+  "tags": {
+    "name": "Die Kesselenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3542343743,
+  "lat": 52.2602848,
+  "lon": 13.0898613,
+  "tags": {
+    "name": "Die versunkenen Krugenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4294741891,
+  "lat": 52.1560085,
+  "lon": 13.0550175,
+  "tags": {
+    "name": "Dobbrikower Wiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4305658112,
+  "lat": 52.1550770,
+  "lon": 13.0578946,
+  "tags": {
+    "name": "Nettgendorfer Torfstich",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4604796886,
+  "lat": 52.2773148,
+  "lon": 13.3617550,
+  "tags": {
+    "name": "Mühlenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 5819121567,
+  "lat": 52.2935458,
+  "lon": 13.0293111,
+  "tags": {
+    "name": "Wildenbruch-Bergheide",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6863563071,
+  "lat": 52.1697539,
+  "lon": 13.2175894,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "39",
+    "name": "Forsthaus Altlenzburg",
+    "place": "isolated_dwelling",
+    "wikidata": "Q116658941",
+    "wikipedia": "de:Forsthaus Altlenzburg"
+  }
+},
+{
+  "type": "node",
+  "id": 7393048515,
+  "lat": 52.2093575,
+  "lon": 13.1011986,
+  "tags": {
+    "check_date": "2026-11-17",
+    "ele": "37",
+    "name": "Stangenhagen",
+    "place": "village",
+    "population": "216",
+    "population:date": "2024-12-31",
+    "postal_code": "14959",
+    "source:population": "wikipedia",
+    "website": "https://www.stadt-trebbin.de/clauertstadt-trebbin/wir-stellen-uns-vor/ortsteile/stangenhagen",
+    "wikidata": "Q2330796",
+    "wikimedia_commons": "Category:Stangenhagen",
+    "wikipedia": "de:Stangenhagen"
+  }
+},
+{
+  "type": "node",
+  "id": 8175910734,
+  "lat": 52.1060077,
+  "lon": 13.2056656,
+  "tags": {
+    "name": "Bleiche",
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8895855351,
+  "lat": 52.0662554,
+  "lon": 13.3827987,
+  "tags": {
+    "heritage": "4",
+    "name": "Horstmühle",
+    "place": "isolated_dwelling",
+    "ref:bldam": "09105030",
+    "wikidata": "Q96197121",
+    "wikipedia": "de:Horstmühle (Baruth/Mark)"
+  }
+},
+{
+  "type": "node",
+  "id": 9293378659,
+  "lat": 52.1911982,
+  "lon": 13.3259305,
+  "tags": {
+    "contact:fax": "+49 33703 68846",
+    "contact:phone": "+49 33703 68845",
+    "name": "Saalower Agrar GmbH",
+    "place": "farm",
+    "website": "https://saalower-kraeuterschwein.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 9424906215,
+  "lat": 52.1740000,
+  "lon": 13.1434062,
+  "tags": {
+    "name": "Forsthaus Märtensmühle",
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 12477139043,
+  "lat": 52.2898678,
+  "lon": 13.2338826,
+  "tags": {
+    "name": "Fuchsberge",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 12539176051,
+  "lat": 52.2162636,
+  "lon": 13.2493717,
+  "tags": {
+    "check_date": "2026-11-16",
+    "heritage": "4",
+    "heritage:operator": "bldam",
+    "heritage:website": "https://ns.gis-bldam-brandenburg.de/hida4web/view?docId=obj09105242.xml",
+    "historic": "yes",
+    "name": "Freie Scholle",
+    "place": "hamlet",
+    "ref:bldam": "09105242",
+    "start_date": "1925",
+    "wikidata": "Q36646363",
+    "wikimedia_commons": "Category:Siedlung Freie Scholle (Trebbin)",
+    "wikipedia": "de:Freie Scholle (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 12635177460,
+  "lat": 52.1844873,
+  "lon": 13.3083113,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "40",
+    "name": "Eichenhof",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q1301684",
+    "wikimedia_commons": "Category:Eichenhof (Trebbin)",
+    "wikipedia": "de:Eichenhof (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14209231561,
+  "lat": 52.1307310,
+  "lon": 13.0756254,
+  "tags": {
+    "check_date": "2026-09-23",
+    "name": "Obermühle",
+    "place": "isolated_dwelling",
+    "wikidata": "Q106014175",
+    "wikimedia_commons": "Category:Obermühle (Gottsdorf)",
+    "wikipedia": "de:Obermühle (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 14221826811,
+  "lat": 52.0635118,
+  "lon": 13.1562749,
+  "tags": {
+    "check_date": "2026-09-27",
+    "name": "Lindenberg",
+    "place": "isolated_dwelling",
+    "wikidata": "Q117210404",
+    "wikipedia": "de:Lindenberg (Luckenwalde)"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107535,
+  "lat": 52.2170806,
+  "lon": 13.0911348,
+  "tags": {
+    "name": "Vor dem Ende",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107536,
+  "lat": 52.2185793,
+  "lon": 13.0976923,
+  "tags": {
+    "name": "Die Gehren",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107537,
+  "lat": 52.2166672,
+  "lon": 13.1017921,
+  "tags": {
+    "name": "Die Göhrenwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107538,
+  "lat": 52.2108156,
+  "lon": 13.1040340,
+  "tags": {
+    "name": "Plantage",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107539,
+  "lat": 52.2110579,
+  "lon": 13.0956029,
+  "tags": {
+    "name": "Die kleine Mühlenwiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107540,
+  "lat": 52.2114334,
+  "lon": 13.0906639,
+  "tags": {
+    "name": "Lückenbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107541,
+  "lat": 52.2120313,
+  "lon": 13.0884980,
+  "tags": {
+    "name": "Lückenbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107542,
+  "lat": 52.2146250,
+  "lon": 13.0868010,
+  "tags": {
+    "name": "Staakenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107543,
+  "lat": 52.2141152,
+  "lon": 13.0848008,
+  "tags": {
+    "name": "Krähenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107544,
+  "lat": 52.2248394,
+  "lon": 13.0765471,
+  "tags": {
+    "name": "Wendemark",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107545,
+  "lat": 52.2222182,
+  "lon": 13.0798492,
+  "tags": {
+    "name": "Langer Horst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107546,
+  "lat": 52.2217224,
+  "lon": 13.0858224,
+  "tags": {
+    "name": "Butenenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107547,
+  "lat": 52.2199654,
+  "lon": 13.0911550,
+  "tags": {
+    "name": "Hofwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107548,
+  "lat": 52.2186614,
+  "lon": 13.0864946,
+  "tags": {
+    "name": "Vor den Horsten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107549,
+  "lat": 52.2193570,
+  "lon": 13.0849163,
+  "tags": {
+    "name": "Hölzchen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107550,
+  "lat": 52.2187461,
+  "lon": 13.0757617,
+  "tags": {
+    "name": "Mittelbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107551,
+  "lat": 52.2157162,
+  "lon": 13.0719620,
+  "tags": {
+    "name": "Zauchwitzer Feld",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107552,
+  "lat": 52.2210253,
+  "lon": 13.0975148,
+  "tags": {
+    "name": "Rohrberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14358107553,
+  "lat": 52.2237226,
+  "lon": 13.0979773,
+  "tags": {
+    "name": "Rohrbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14360392594,
+  "lat": 52.2431126,
+  "lon": 13.0234687,
+  "tags": {
+    "name": "Enden vor dem Damm",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14360392595,
+  "lat": 52.2487458,
+  "lon": 13.0260683,
+  "tags": {
+    "name": "Die Miermaten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14360392596,
+  "lat": 52.2489392,
+  "lon": 13.0314827,
+  "tags": {
+    "name": "Die Gründehufen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14360392597,
+  "lat": 52.2494799,
+  "lon": 13.0360488,
+  "tags": {
+    "name": "Die Steinberge",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14360402031,
+  "lat": 52.1843826,
+  "lon": 13.0428538,
+  "tags": {
+    "name": "Priechewitz",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361004122,
+  "lat": 52.1859866,
+  "lon": 13.0511230,
+  "tags": {
+    "name": "Mollbrücke",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361004123,
+  "lat": 52.1850799,
+  "lon": 13.0621871,
+  "tags": {
+    "name": "Neue Heide",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361004124,
+  "lat": 52.1838206,
+  "lon": 13.0594484,
+  "tags": {
+    "name": "Die Schlafhorst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361004125,
+  "lat": 52.1818555,
+  "lon": 13.0235423,
+  "tags": {
+    "name": "Langer Grund",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361004126,
+  "lat": 52.1821837,
+  "lon": 13.0350255,
+  "tags": {
+    "name": "Hohebe",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361004127,
+  "lat": 52.1776332,
+  "lon": 13.0365129,
+  "tags": {
+    "name": "Die Gehren",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361135562,
+  "lat": 52.1932940,
+  "lon": 13.0297097,
+  "tags": {
+    "name": "Lehmmaten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361135563,
+  "lat": 52.1940078,
+  "lon": 13.0286727,
+  "tags": {
+    "name": "Lehmmaten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361135564,
+  "lat": 52.1953656,
+  "lon": 13.0218388,
+  "tags": {
+    "name": "Bankpuhl",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361135570,
+  "lat": 52.2057960,
+  "lon": 13.0458969,
+  "tags": {
+    "name": "Theruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14361135596,
+  "lat": 52.2172819,
+  "lon": 13.0243158,
+  "tags": {
+    "name": "Der Busch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924257,
+  "lat": 52.2885564,
+  "lon": 13.0691954,
+  "tags": {
+    "name": "Siebenruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924258,
+  "lat": 52.2786261,
+  "lon": 13.0734388,
+  "tags": {
+    "name": "Die Höhen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924259,
+  "lat": 52.2762483,
+  "lon": 13.0594834,
+  "tags": {
+    "name": "Der Seddin",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924260,
+  "lat": 52.2738581,
+  "lon": 13.0586237,
+  "tags": {
+    "name": "Die Seeberge",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924261,
+  "lat": 52.2716218,
+  "lon": 13.0552368,
+  "tags": {
+    "name": "Badstock",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924262,
+  "lat": 52.2823607,
+  "lon": 13.0529466,
+  "tags": {
+    "name": "Die Bergmaten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924263,
+  "lat": 52.2873260,
+  "lon": 13.0523858,
+  "tags": {
+    "name": "Das Mühlenfeld",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924264,
+  "lat": 52.2916507,
+  "lon": 13.0736953,
+  "tags": {
+    "name": "Siebenruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924269,
+  "lat": 52.2691238,
+  "lon": 13.0805001,
+  "tags": {
+    "name": "Die Nachthütung",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924270,
+  "lat": 52.2694374,
+  "lon": 13.0694687,
+  "tags": {
+    "name": "Zimmermanns Fenn",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924271,
+  "lat": 52.2699024,
+  "lon": 13.0664444,
+  "tags": {
+    "name": "Die Büschken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924272,
+  "lat": 52.2711223,
+  "lon": 13.0641834,
+  "tags": {
+    "name": "Birkholz",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14366924273,
+  "lat": 52.2912320,
+  "lon": 13.0830832,
+  "tags": {
+    "name": "Steinberge",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14382152853,
+  "lat": 52.2742666,
+  "lon": 13.1226692,
+  "tags": {
+    "name": "Das große Luch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14382152857,
+  "lat": 52.2703227,
+  "lon": 13.1154838,
+  "tags": {
+    "name": "Breite",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14382152858,
+  "lat": 52.2716367,
+  "lon": 13.1134049,
+  "tags": {
+    "name": "Miese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14382152859,
+  "lat": 52.2788167,
+  "lon": 13.1108835,
+  "tags": {
+    "name": "Backofenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14382152860,
+  "lat": 52.2797915,
+  "lon": 13.1201869,
+  "tags": {
+    "name": "Wolfswinkel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786932,
+  "lat": 52.1283193,
+  "lon": 13.2146234,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "40",
+    "image": "https://commons.wikimedia.org/wiki/File:Forsthaus_Birkhorst_Giebelseite_und_Eingang.jpg",
+    "name": "Birkhorst",
+    "place": "isolated_dwelling",
+    "postal_code": "14974",
+    "wikidata": "Q116459890",
+    "wikimedia_commons": "File:Forsthaus Birkhorst Giebelseite und Eingang.jpg",
+    "wikipedia": "de:Birkhorst (Nuthe-Urstromtal)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786939,
+  "lat": 52.2185744,
+  "lon": 13.2222796,
+  "tags": {
+    "name": "Weinberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786941,
+  "lat": 52.1692941,
+  "lon": 13.2392182,
+  "tags": {
+    "name": "Der Trebbiner Eichelbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786947,
+  "lat": 52.1684917,
+  "lon": 13.2384436,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "40",
+    "name": "Forsthaus Lenzburg",
+    "place": "isolated_dwelling",
+    "wikidata": "Q93294941",
+    "wikipedia": "de:Forsthaus Lenzburg"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786948,
+  "lat": 52.1668071,
+  "lon": 13.2277049,
+  "tags": {
+    "name": "Hinterste Krietzen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786949,
+  "lat": 52.1688280,
+  "lon": 13.2309673,
+  "tags": {
+    "name": "Vorderste Krietzen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786950,
+  "lat": 52.1690957,
+  "lon": 13.2347750,
+  "tags": {
+    "name": "Große Stücken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786951,
+  "lat": 52.1667729,
+  "lon": 13.2388897,
+  "tags": {
+    "name": "Der Trebbiner Eichelbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786952,
+  "lat": 52.1698898,
+  "lon": 13.2480821,
+  "tags": {
+    "name": "Der Trebbiner Eichelbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786953,
+  "lat": 52.1729816,
+  "lon": 13.2474848,
+  "tags": {
+    "name": "Der Trebbiner Eichelbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786954,
+  "lat": 52.1750081,
+  "lon": 13.2517523,
+  "tags": {
+    "name": "Das große Luch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786955,
+  "lat": 52.1765968,
+  "lon": 13.2605551,
+  "tags": {
+    "name": "Das große Luch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786956,
+  "lat": 52.1783473,
+  "lon": 13.2495957,
+  "tags": {
+    "name": "Das große Luch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786957,
+  "lat": 52.1785253,
+  "lon": 13.2457418,
+  "tags": {
+    "name": "Lange Hörstchen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786958,
+  "lat": 52.1780369,
+  "lon": 13.2425091,
+  "tags": {
+    "name": "Lange Hörstchen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786959,
+  "lat": 52.1759957,
+  "lon": 13.2442205,
+  "tags": {
+    "name": "Hintenraus",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786970,
+  "lat": 52.2049261,
+  "lon": 13.1866049,
+  "tags": {
+    "check_date": "2026-11-16",
+    "name": "Finkenberg",
+    "place": "isolated_dwelling",
+    "postal_code": "14959",
+    "wikidata": "Q106675030",
+    "wikipedia": "de:Finkenberg (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786979,
+  "lat": 52.2032199,
+  "lon": 13.1923387,
+  "tags": {
+    "name": "Grenzwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14384786995,
+  "lat": 52.2025989,
+  "lon": 13.2418311,
+  "tags": {
+    "check_date": "2026-11-16",
+    "name": "Paulshöhe",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q95578186",
+    "wikipedia": "de:Paulshöhe (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384816004,
+  "lat": 52.1988303,
+  "lon": 13.2171579,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "44",
+    "name": "Plantage",
+    "place": "isolated_dwelling",
+    "postal_code": "14959",
+    "wikidata": "Q101560675",
+    "wikipedia": "de:Plantage (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384816005,
+  "lat": 52.1961208,
+  "lon": 13.2220586,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "40",
+    "name": "Ziegelei",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q109627185",
+    "wikimedia_commons": "Category:Ziegelei (Trebbin)",
+    "wikipedia": "de:Ziegelei (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384816006,
+  "lat": 52.2227483,
+  "lon": 13.1769835,
+  "tags": {
+    "check_date": "2026-11-16",
+    "name": "Priedel",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q106315052",
+    "wikimedia_commons": "Category:Priedel",
+    "wikipedia": "de:Priedel"
+  }
+},
+{
+  "type": "node",
+  "id": 14384816011,
+  "lat": 52.2107007,
+  "lon": 13.1318125,
+  "tags": {
+    "check_date": "2026-11-16",
+    "name": "Schönblick",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q137900949",
+    "wikimedia_commons": "Category:Schönblick (Trebbin)",
+    "wikipedia": "de:Schönblick (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14384816034,
+  "lat": 52.2181552,
+  "lon": 13.1233415,
+  "tags": {
+    "check_date": "2026-11-16",
+    "ele": "42",
+    "name": "Seeblick",
+    "place": "hamlet",
+    "postal_code": "14959",
+    "wikidata": "Q107640746",
+    "wikimedia_commons": "Category:Seeblick (Trebbin)",
+    "wikipedia": "de:Seeblick (Trebbin)"
+  }
+},
+{
+  "type": "node",
+  "id": 14395799784,
+  "lat": 52.2368632,
+  "lon": 13.1947636,
+  "tags": {
+    "name": "Am Ravensberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14395799785,
+  "lat": 52.2523586,
+  "lon": 13.1755489,
+  "tags": {
+    "name": "Die Fichtenberge",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326341,
+  "lat": 52.2537157,
+  "lon": 13.2112719,
+  "tags": {
+    "name": "Bucht",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326342,
+  "lat": 52.2387958,
+  "lon": 13.2216739,
+  "tags": {
+    "name": "Gutskoppe",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326343,
+  "lat": 52.2393531,
+  "lon": 13.2151038,
+  "tags": {
+    "name": "An der Heuscheune",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326344,
+  "lat": 52.2429207,
+  "lon": 13.2084664,
+  "tags": {
+    "name": "Rohrwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326345,
+  "lat": 52.2486641,
+  "lon": 13.2027236,
+  "tags": {
+    "name": "Buschwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326346,
+  "lat": 52.2508875,
+  "lon": 13.2042754,
+  "tags": {
+    "name": "Brache",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326347,
+  "lat": 52.2514716,
+  "lon": 13.2060118,
+  "tags": {
+    "name": "Brache",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326348,
+  "lat": 52.2531185,
+  "lon": 13.2020049,
+  "tags": {
+    "name": "Vor dem Damm",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326349,
+  "lat": 52.2582563,
+  "lon": 13.1984636,
+  "tags": {
+    "name": "Horst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326350,
+  "lat": 52.2550657,
+  "lon": 13.1931986,
+  "tags": {
+    "name": "Rohrplan",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326351,
+  "lat": 52.2606832,
+  "lon": 13.1869798,
+  "tags": {
+    "name": "Der Plan",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326352,
+  "lat": 52.2615825,
+  "lon": 13.1894954,
+  "tags": {
+    "name": "Brache",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326353,
+  "lat": 52.2661104,
+  "lon": 13.1808778,
+  "tags": {
+    "name": "Vorderste Dämken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326354,
+  "lat": 52.2645594,
+  "lon": 13.1853399,
+  "tags": {
+    "name": "Brache",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326355,
+  "lat": 52.2640871,
+  "lon": 13.1858673,
+  "tags": {
+    "name": "Brache",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326356,
+  "lat": 52.2651898,
+  "lon": 13.1869205,
+  "tags": {
+    "name": "Frickenhorst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326357,
+  "lat": 52.2651998,
+  "lon": 13.1888086,
+  "tags": {
+    "name": "Brache",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326358,
+  "lat": 52.2659126,
+  "lon": 13.1860869,
+  "tags": {
+    "name": "Hinterste Dämken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326359,
+  "lat": 52.2660107,
+  "lon": 13.1869995,
+  "tags": {
+    "name": "Brache",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326360,
+  "lat": 52.2672415,
+  "lon": 13.1844848,
+  "tags": {
+    "name": "Die Laake",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326361,
+  "lat": 52.2641284,
+  "lon": 13.1686943,
+  "tags": {
+    "name": "Die Wurftwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326362,
+  "lat": 52.2635475,
+  "lon": 13.1735105,
+  "tags": {
+    "name": "Die Nuthewiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326363,
+  "lat": 52.2601363,
+  "lon": 13.1770948,
+  "tags": {
+    "name": "Hinter der Nachthütung",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326364,
+  "lat": 52.2610200,
+  "lon": 13.1791949,
+  "tags": {
+    "name": "Triangel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326365,
+  "lat": 52.2572873,
+  "lon": 13.1816887,
+  "tags": {
+    "name": "Die großen Wiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326366,
+  "lat": 52.2556124,
+  "lon": 13.1787001,
+  "tags": {
+    "name": "Die Nachthütung",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326367,
+  "lat": 52.2540063,
+  "lon": 13.1693865,
+  "tags": {
+    "name": "Der Wrietz Busch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326368,
+  "lat": 52.2530032,
+  "lon": 13.1639002,
+  "tags": {
+    "name": "Hinter den Höfen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326369,
+  "lat": 52.2515445,
+  "lon": 13.1609697,
+  "tags": {
+    "name": "Die Mackewitz",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326370,
+  "lat": 52.2512580,
+  "lon": 13.1547368,
+  "tags": {
+    "name": "Der Stege Busch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326371,
+  "lat": 52.2514239,
+  "lon": 13.1464350,
+  "tags": {
+    "name": "Kirchenplan",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326372,
+  "lat": 52.2537786,
+  "lon": 13.1523680,
+  "tags": {
+    "name": "Die Stege Enden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326373,
+  "lat": 52.2549051,
+  "lon": 13.1562313,
+  "tags": {
+    "name": "Vor der Mackewitz",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326374,
+  "lat": 52.2561117,
+  "lon": 13.1662131,
+  "tags": {
+    "name": "Die vordersten Fahren",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326375,
+  "lat": 52.2553933,
+  "lon": 13.1671429,
+  "tags": {
+    "name": "Enden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326376,
+  "lat": 52.2584416,
+  "lon": 13.1635567,
+  "tags": {
+    "name": "Am Dorfe",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326377,
+  "lat": 52.2580194,
+  "lon": 13.1580280,
+  "tags": {
+    "name": "Beim Dorfe",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326378,
+  "lat": 52.2598061,
+  "lon": 13.1488378,
+  "tags": {
+    "name": "Püttgen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326379,
+  "lat": 52.2620460,
+  "lon": 13.1493679,
+  "tags": {
+    "name": "Aufstall",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326380,
+  "lat": 52.2611108,
+  "lon": 13.1502574,
+  "tags": {
+    "name": "Straue",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326381,
+  "lat": 52.2612202,
+  "lon": 13.1453554,
+  "tags": {
+    "name": "Vor dem Dorf",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326382,
+  "lat": 52.2599864,
+  "lon": 13.1435295,
+  "tags": {
+    "name": "An der Mühle",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326383,
+  "lat": 52.2591829,
+  "lon": 13.1408695,
+  "tags": {
+    "name": "Am Grössin-See",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326384,
+  "lat": 52.2579561,
+  "lon": 13.1396253,
+  "tags": {
+    "name": "Aaskuten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326385,
+  "lat": 52.2600606,
+  "lon": 13.1402104,
+  "tags": {
+    "name": "Brache",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326386,
+  "lat": 52.2618994,
+  "lon": 13.1427276,
+  "tags": {
+    "name": "Röten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326387,
+  "lat": 52.2608736,
+  "lon": 13.1409910,
+  "tags": {
+    "name": "Mühlenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326388,
+  "lat": 52.2605318,
+  "lon": 13.1574731,
+  "tags": {
+    "name": "Hoher Acker",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326389,
+  "lat": 52.2601873,
+  "lon": 13.1673556,
+  "tags": {
+    "name": "Der Plan",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326390,
+  "lat": 52.2581384,
+  "lon": 13.1726416,
+  "tags": {
+    "name": "Die Wiedecken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326391,
+  "lat": 52.2546572,
+  "lon": 13.1820375,
+  "tags": {
+    "name": "Vor den Kaveln",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326392,
+  "lat": 52.2561132,
+  "lon": 13.1891080,
+  "tags": {
+    "name": "Die Kaveln",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326393,
+  "lat": 52.2611476,
+  "lon": 13.1952227,
+  "tags": {
+    "name": "Brache",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326394,
+  "lat": 52.2616311,
+  "lon": 13.1936917,
+  "tags": {
+    "name": "Horst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326395,
+  "lat": 52.2654396,
+  "lon": 13.1910990,
+  "tags": {
+    "name": "Rehwinkel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326396,
+  "lat": 52.2645602,
+  "lon": 13.2006469,
+  "tags": {
+    "name": "Schäferluch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326397,
+  "lat": 52.2612497,
+  "lon": 13.2023762,
+  "tags": {
+    "name": "Die Schäferei",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326398,
+  "lat": 52.2679531,
+  "lon": 13.2091334,
+  "tags": {
+    "name": "Schmolingswinkel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326399,
+  "lat": 52.2667583,
+  "lon": 13.2123545,
+  "tags": {
+    "name": "Mahlbaumenden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397326400,
+  "lat": 52.2610761,
+  "lon": 13.2229800,
+  "tags": {
+    "name": "Hasenheide",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397328701,
+  "lat": 52.2627862,
+  "lon": 13.2302205,
+  "tags": {
+    "name": "Rübenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397328702,
+  "lat": 52.2644145,
+  "lon": 13.2309072,
+  "tags": {
+    "name": "Hinter der Hasenheide",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397328703,
+  "lat": 52.2684483,
+  "lon": 13.2378390,
+  "tags": {
+    "name": "Tertian",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397328704,
+  "lat": 52.2659090,
+  "lon": 13.2415364,
+  "tags": {
+    "name": "Die tiefen Grundhufen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397328705,
+  "lat": 52.2610861,
+  "lon": 13.2473700,
+  "tags": {
+    "name": "Die tiefen Grundhufen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14397328706,
+  "lat": 52.2578163,
+  "lon": 13.2139828,
+  "tags": {
+    "name": "Eckenstört",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668268,
+  "lat": 52.2492822,
+  "lon": 13.2970118,
+  "tags": {
+    "name": "Die Gehren",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668269,
+  "lat": 52.2447718,
+  "lon": 13.3072769,
+  "tags": {
+    "name": "Vierruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668270,
+  "lat": 52.2409095,
+  "lon": 13.3038229,
+  "tags": {
+    "name": "Ochsenbusch",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668271,
+  "lat": 52.2395551,
+  "lon": 13.3027503,
+  "tags": {
+    "name": "An den Rötkuten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668272,
+  "lat": 52.2388099,
+  "lon": 13.3003167,
+  "tags": {
+    "name": "Zweiruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668273,
+  "lat": 52.2375603,
+  "lon": 13.3038253,
+  "tags": {
+    "name": "Acht Ruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668274,
+  "lat": 52.2367731,
+  "lon": 13.2985213,
+  "tags": {
+    "name": "Kiel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668275,
+  "lat": 52.2367903,
+  "lon": 13.2957295,
+  "tags": {
+    "name": "Mehlstück",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668276,
+  "lat": 52.2335487,
+  "lon": 13.2949145,
+  "tags": {
+    "name": "Mehlwiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668277,
+  "lat": 52.2316085,
+  "lon": 13.2937229,
+  "tags": {
+    "name": "Fichten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668278,
+  "lat": 52.2304088,
+  "lon": 13.2920165,
+  "tags": {
+    "name": "Schaftrift",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668279,
+  "lat": 52.2303764,
+  "lon": 13.2969512,
+  "tags": {
+    "name": "Bergmaten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668280,
+  "lat": 52.2317295,
+  "lon": 13.2991451,
+  "tags": {
+    "name": "Bärwinkel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668281,
+  "lat": 52.2290282,
+  "lon": 13.2924048,
+  "tags": {
+    "name": "Zigeunerkapelle",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668282,
+  "lat": 52.2277019,
+  "lon": 13.2928510,
+  "tags": {
+    "name": "Die Horst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668283,
+  "lat": 52.2262421,
+  "lon": 13.2982265,
+  "tags": {
+    "name": "Hütung",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668284,
+  "lat": 52.2312605,
+  "lon": 13.2785753,
+  "tags": {
+    "name": "Amerika",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668285,
+  "lat": 52.2323865,
+  "lon": 13.2684499,
+  "tags": {
+    "name": "Die Brände",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668286,
+  "lat": 52.2331407,
+  "lon": 13.2610171,
+  "tags": {
+    "name": "Dorfwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668287,
+  "lat": 52.2313536,
+  "lon": 13.2584828,
+  "tags": {
+    "name": "Birkhorst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668288,
+  "lat": 52.2300472,
+  "lon": 13.2620129,
+  "tags": {
+    "name": "Torfkute",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668289,
+  "lat": 52.2292678,
+  "lon": 13.2529640,
+  "tags": {
+    "name": "Lange Winkel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668290,
+  "lat": 52.2303141,
+  "lon": 13.2451402,
+  "tags": {
+    "name": "Wulweshorst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668291,
+  "lat": 52.2339663,
+  "lon": 13.2556191,
+  "tags": {
+    "name": "Birkhorst",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668292,
+  "lat": 52.2370518,
+  "lon": 13.2505157,
+  "tags": {
+    "name": "Wiese unter den vorderen Bruchstücken",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668293,
+  "lat": 52.2395440,
+  "lon": 13.2598288,
+  "tags": {
+    "name": "Dammwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668294,
+  "lat": 52.2436932,
+  "lon": 13.2578792,
+  "tags": {
+    "name": "Nachtkoppel",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668295,
+  "lat": 52.2479400,
+  "lon": 13.2714977,
+  "tags": {
+    "name": "Ochsenwiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668296,
+  "lat": 52.2460179,
+  "lon": 13.2717294,
+  "tags": {
+    "name": "Ochsenwiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668297,
+  "lat": 52.2472227,
+  "lon": 13.2787687,
+  "tags": {
+    "name": "Rohrwiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668298,
+  "lat": 52.2447826,
+  "lon": 13.2894497,
+  "tags": {
+    "name": "Das wüste Land",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668299,
+  "lat": 52.2457754,
+  "lon": 13.2878719,
+  "tags": {
+    "name": "Zehnruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399668300,
+  "lat": 52.2437208,
+  "lon": 13.2896707,
+  "tags": {
+    "name": "Die kurzen Enden",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399682101,
+  "lat": 52.2501405,
+  "lon": 13.2876184,
+  "tags": {
+    "name": "Zwölfruten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399682102,
+  "lat": 52.2512805,
+  "lon": 13.3061279,
+  "tags": {
+    "name": "Lehmkute",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399682103,
+  "lat": 52.2341603,
+  "lon": 13.3077670,
+  "tags": {
+    "name": "Der Hahnenwall",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14399682104,
+  "lat": 52.2333340,
+  "lon": 13.3116981,
+  "tags": {
+    "name": "Hintere Wiesen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14401489002,
+  "lat": 52.2131260,
+  "lon": 13.2889044,
+  "tags": {
+    "name": "Das hohe Feld",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148741,
+  "lat": 52.1896711,
+  "lon": 13.2891232,
+  "tags": {
+    "name": "Am tiefen Weg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148742,
+  "lat": 52.1879812,
+  "lon": 13.2914815,
+  "tags": {
+    "name": "Mühlenberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148743,
+  "lat": 52.1903827,
+  "lon": 13.2970785,
+  "tags": {
+    "name": "Bergstück",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148744,
+  "lat": 52.1924364,
+  "lon": 13.3009711,
+  "tags": {
+    "name": "Prasen",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148745,
+  "lat": 52.1914212,
+  "lon": 13.3043361,
+  "tags": {
+    "name": "Berge",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148746,
+  "lat": 52.1884001,
+  "lon": 13.3020441,
+  "tags": {
+    "name": "Schinderkuten",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148747,
+  "lat": 52.1877834,
+  "lon": 13.3020149,
+  "tags": {
+    "name": "Jerschnitze",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148748,
+  "lat": 52.1827085,
+  "lon": 13.2850785,
+  "tags": {
+    "name": "Die Hinterwiese",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148749,
+  "lat": 52.1868457,
+  "lon": 13.2803259,
+  "tags": {
+    "name": "Sahne",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148750,
+  "lat": 52.1936560,
+  "lon": 13.2867247,
+  "tags": {
+    "name": "Mittelfeld",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148751,
+  "lat": 52.1953119,
+  "lon": 13.2864278,
+  "tags": {
+    "name": "Zwergberg",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148752,
+  "lat": 52.1919720,
+  "lon": 13.2893467,
+  "tags": {
+    "name": "Dornsche",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14405148753,
+  "lat": 52.1960340,
+  "lon": 13.2916407,
+  "tags": {
+    "name": "Plaß",
+    "place": "locality"
+  }
+}
+
+  ]
+}
